@@ -1,25 +1,27 @@
-# 🎨 AI vs Human Art Detector
+#  AI vs Human Art Detector
 
 This project detects whether an artwork is AI-generated or human-created using Deep Learning (ResNet50V2).
 
-## 🚀 Features
-- Upload artwork image
-- Detect AI or Human art
+##  Features
+- Detects AI vs human artwork
+- Real-time image upload & prediction
 - Confidence score display
-- Streamlit web interface
+- Grad-CAM visualization for model focus
+- Interactive Streamlit interface
 
-## 🧠 Tech Stack
+##  Tech Stack
 - Python
 - TensorFlow / Keras
 - Streamlit
 - CNN (ResNet50V2)
+- OpenCV
 
-## ▶️ Run Project
+##  Run Project
 - Install requirements:
 - pip install -r requirements.txt
 
 Run app:
 - streamlit run app.py
 
-## 👩‍💻 Developed by
-Ashwini
+##  Developed by
+ Ashwini
