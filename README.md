@@ -15,11 +15,11 @@ This project detects whether an artwork is AI-generated or human-created using D
 - CNN (ResNet50V2)
 
 ## ▶️ Run Project
-Install requirements:
-pip install -r requirements.txt
+- Install requirements:
+- pip install -r requirements.txt
 
 Run app:
-streamlit run app.py
+- streamlit run app.py
 
 ## 👩‍💻 Developed by
 Ashwini
